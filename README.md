@@ -1,2 +1,2 @@
 # ddiOdev
- Doğal Dil İşleme Ödevi
+   İyileştirme yapmak için verilen film veri setindeki sütunlardan "film adi","tur" ve "oyuncular" sütununu kodun içerisine dahil ettim. Daha öncesinde kullanılan "ozet ve detaylar" sütununu ise kodun içerisinden çıkarttım. Bu işlemler sonucunda oluşan yeni clean veri setimi test ettiğimde ise derleme süresinin kısaldığını fark ettim. Daha sonrasında baseline model "Uncharted" filmi için	"Kaçış","Sihirli Oyuncaklar","Azap Yolu" filmlerini bulurken, yeni modelimiz "Uncharted" filmi için "Venom: Zehirli Öfke","Suç Çetesi","Zombieland" filmlerini buldu. Yeni modelimizin baseline modele göre daha iyi çalıştığını düşünüyorum.
